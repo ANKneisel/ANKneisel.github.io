@@ -1,5 +1,9 @@
 ---
-title: "ANKneisel.github.io"
+title: "Allison Kneisel, PHD Candidate"
+image: C:/Users/ankneisel/Pictures/20241017_194210.jpg
+toc: false
+about: 
+template: jolla
 ---
 
 This is a Quarto website.
@@ -8,6 +12,5 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 
-usethis::use_git()
 
 ```
