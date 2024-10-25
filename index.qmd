@@ -2,6 +2,7 @@
 title: "Allison Kneisel"
 image: media/croped_ponds.jpg
 image-alt: "A pond surrounded by trees"
+toc: false
 
 about:
   template: marquee
