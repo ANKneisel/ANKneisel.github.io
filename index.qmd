@@ -1,16 +1,13 @@
 ---
-title: "Allison Kneisel, PHD Candidate"
-image: C:/Users/ankneisel/Pictures/20241017_194210.jpg
+title: "Allison Kneisel"
+image: media/croped_ponds.jpg
 toc: false
 about: 
-template: jolla
+  template: marquee
 ---
 
-This is a Quarto website.
+## Greetings!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+From urban ponds to remote lakes, people rely on aquatic systems for physical and cultural services. I study aquatic systems to 1) understand how the landscape context of lakes, ponds, and wetlands influence their structure and function and 2) explore how these systems are changing through time. 
 
-```{r}
-
-
-```
+I am currently a PhD Candidate at the University of Wisconsin – Madison in the [Ecosystem and Landscape Ecology Lab](turnerlab.bio.wisc.edu) where I am studying urban ponds, wetland ecosystem services, and lake temporal dynamics in the Upper Midwest of the US.
