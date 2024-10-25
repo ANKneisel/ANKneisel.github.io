@@ -1,12 +1,12 @@
 ---
 title: "Allison Kneisel, PHD Candidate"
-image: C:/Users/ankneisel/Pictures/20241017_194210.jpg
+image: media/20241017_194210.jpg
 toc: false
 about: 
-template: jolla
+  template: jolla
+  image-width: 20em
+  image-shape: rounded
 ---
-
-This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
