@@ -1,10 +1,15 @@
 ---
 title: "Allison Kneisel"
 image: media/croped_ponds.jpg
-toc: false
-about: 
+image-alt: "A pond surrounded by trees"
+
+about:
   template: marquee
+page-layout: full
 ---
+
+<br><br>
+
 
 ## Greetings!
 
