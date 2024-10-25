@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: "Allison Kneisel"
 image: media/croped_ponds.jpg
 toc: false
