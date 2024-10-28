@@ -1,19 +1,23 @@
 ---
 title: "Allison Kneisel"
-image: media/croped_ponds.jpg
+subtitle: "PhD Candidate, Dept. Integrative Biology"
+image: media/cropped_2.jpg
 image-alt: "A pond surrounded by trees"
 toc: false
 
 about:
-  template: marquee
-page-layout: full
+  template: trestles
+page-layout: article
 ---
-
-<br><br>
-
 
 ## Greetings!
 
-From urban ponds to remote lakes, people rely on aquatic systems for physical and cultural services. I study aquatic systems to 1) understand how the landscape context of lakes, ponds, and wetlands influence their structure and function and 2) explore how these systems are changing through time.
+From urban ponds to remote lakes, people rely on aquatic systems for physical and cultural services. The availability and quality of water resources are dependent on what occurs "up-hill" or "up-stream" of these water bodies and so landscape level investigations are key.
 
-I am currently a PhD Candidate at the University of Wisconsin – Madison in the [Ecosystem and Landscape Ecology Lab](turnerlab.bio.wisc.edu) where I am studying urban ponds, wetland ecosystem services, and lake temporal dynamics in the Upper Midwest of the US.
+I study aquatic systems to:\
+\
+1) Understand how the watershed context of lakes, ponds, and wetlands influence their structure and function and\
+\
+2) Explore how these systems are changing through time in response to changing land use, climate, and other drivers.
+
+I am currently a PhD Candidate at the University of Wisconsin – Madison in the [Ecosystem and Landscape Ecology Lab](https://turnerlab.ibio.wisc.edu/) where I am studying carbon in urban ponds, wetland ecosystem services, and lake temporal dynamics in the Upper Midwest of the US with Dr. Monica Turner.
