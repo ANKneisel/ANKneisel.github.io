@@ -1,8 +1,8 @@
 ---
 title: "Allison Kneisel"
 subtitle: "PhD Candidate, Dept. Integrative Biology"
-image: media/cropped_2.jpg
-image-alt: "A pond surrounded by trees"
+image: media/Prof_Pic.jpg
+image-alt: ""
 toc: false
 
 about:
@@ -10,13 +10,11 @@ about:
 page-layout: article
 ---
 
-## Greetings!
-
-From urban ponds to remote lakes, people rely on aquatic systems for physical and cultural services. The availability and quality of water resources are dependent on what occurs "up-hill" or "up-stream" of these water bodies and so landscape level investigations are key.
+### Welcome!
 
 I study aquatic systems to:\
 \
-1) Understand how the watershed context of lakes, ponds, and wetlands influence their structure and function and\
+1) Understand how the watershed context of lakes, ponds, and wetlands influence their structure, function, and ecosystem service supply.\
 \
 2) Explore how these systems are changing through time in response to changing land use, climate, and other drivers.
 

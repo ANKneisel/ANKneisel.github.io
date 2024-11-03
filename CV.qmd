@@ -1,12 +1,12 @@
 ---
 title: CV
 description: "Allison Kneisel CV"
-date: 2024-10-25
+date: 2024-11-03
 published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "Kneisel_CVFa24.pdf"
+  pdf: "Kneisel_CV_Fall24v2.pdf"
 ---
 
 ```{css, echo=FALSE}
